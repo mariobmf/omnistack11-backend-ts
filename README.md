@@ -5,8 +5,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a> |
   <a href="#-projeto">Projeto</a> |
-  <a href="#-como-usar">Como Usar</a> |
-  <a href="#-licença">Licença</a>
+  <a href="#-como-usar">Como Usar</a>
 </p>
 
 <h1 align="center">
