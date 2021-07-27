@@ -27,10 +27,10 @@ O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribui�
 
 ```bash
 # Clonar o Repositório
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/mariobmf/omnistack11-backend-ts.git
 
 # Entrar no Repositório
-$ cd /backend
+$ cd /omnistack11-backend-ts
 
 # Instalar as Dependências
 $ yarn install
@@ -49,4 +49,4 @@ $ yarn dev
 
 ---
 
-Feito por [Mário Fernandes](https://www.linkedin.com/in/mario-fernandes-dev/) com base na semana NLW 01
+Feito por [Mário Fernandes](https://www.linkedin.com/in/mario-fernandes-dev/) com base na semana OmniStack 11.0
